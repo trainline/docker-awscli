@@ -1,6 +1,6 @@
 FROM alpine:3.6
 
-ADD Licence.txt /
+ADD License.txt /
 
 RUN \
 apk --no-cache add \
