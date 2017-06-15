@@ -1,0 +1,2 @@
+This product includes software from Amazon Web Services,
+under the Apache License 2.0 (see http://aws.amazon.com/apache2.0/)
