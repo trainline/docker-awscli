@@ -1,5 +1,7 @@
 FROM alpine:3.6
 
+ADD Licence.txt /
+
 RUN \
 apk --no-cache add \
   tar \
