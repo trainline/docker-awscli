@@ -14,4 +14,4 @@ apk --no-cache add \
 
 VOLUME ["~/.aws"]
 
-ENTRYPOINT ["/bin/sh"]
+ENTRYPOINT []
